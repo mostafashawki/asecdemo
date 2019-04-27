@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mostafashawki/asecdemo.git/precache-manifest.77966e73fc27a45533967d53081019a4.js"
+  "/asecdemo/precache-manifest.4c417f41eb780c9e4d09272dfcb5c70e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mostafashawki/asecdemo.git/index.html", {
+workbox.routing.registerNavigationRoute("/asecdemo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

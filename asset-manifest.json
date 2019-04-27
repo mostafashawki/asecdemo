@@ -1,13 +1,13 @@
 {
-  "main.css": "/mostafashawki/asecdemo.git/static/css/main.374e9d31.chunk.css",
-  "main.js": "/mostafashawki/asecdemo.git/static/js/main.735cc60c.chunk.js",
-  "main.js.map": "/mostafashawki/asecdemo.git/static/js/main.735cc60c.chunk.js.map",
-  "static/js/1.e95274c9.chunk.js": "/mostafashawki/asecdemo.git/static/js/1.e95274c9.chunk.js",
-  "static/js/1.e95274c9.chunk.js.map": "/mostafashawki/asecdemo.git/static/js/1.e95274c9.chunk.js.map",
-  "runtime~main.js": "/mostafashawki/asecdemo.git/static/js/runtime~main.095f7198.js",
-  "runtime~main.js.map": "/mostafashawki/asecdemo.git/static/js/runtime~main.095f7198.js.map",
-  "static/css/main.374e9d31.chunk.css.map": "/mostafashawki/asecdemo.git/static/css/main.374e9d31.chunk.css.map",
-  "index.html": "/mostafashawki/asecdemo.git/index.html",
-  "precache-manifest.77966e73fc27a45533967d53081019a4.js": "/mostafashawki/asecdemo.git/precache-manifest.77966e73fc27a45533967d53081019a4.js",
-  "service-worker.js": "/mostafashawki/asecdemo.git/service-worker.js"
+  "main.css": "/asecdemo/static/css/main.374e9d31.chunk.css",
+  "main.js": "/asecdemo/static/js/main.7afce4b6.chunk.js",
+  "main.js.map": "/asecdemo/static/js/main.7afce4b6.chunk.js.map",
+  "static/js/1.e95274c9.chunk.js": "/asecdemo/static/js/1.e95274c9.chunk.js",
+  "static/js/1.e95274c9.chunk.js.map": "/asecdemo/static/js/1.e95274c9.chunk.js.map",
+  "runtime~main.js": "/asecdemo/static/js/runtime~main.757609c6.js",
+  "runtime~main.js.map": "/asecdemo/static/js/runtime~main.757609c6.js.map",
+  "static/css/main.374e9d31.chunk.css.map": "/asecdemo/static/css/main.374e9d31.chunk.css.map",
+  "index.html": "/asecdemo/index.html",
+  "precache-manifest.4c417f41eb780c9e4d09272dfcb5c70e.js": "/asecdemo/precache-manifest.4c417f41eb780c9e4d09272dfcb5c70e.js",
+  "service-worker.js": "/asecdemo/service-worker.js"
 }
